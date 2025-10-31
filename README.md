@@ -46,7 +46,7 @@ To enrich the dataset, price information will also be collected from publicly ac
 
 - H₁: Diet-labeled products have significantly higher prices
 
-Apply t-test or ANOVA depending on data structure
+- Apply t-test or ANOVA depending on data structure
 
 ## Expected Findings
 
