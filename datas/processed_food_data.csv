@@ -1,31 +1,102 @@
 product,brand,category,calories,protein,sugar,fat,fiber,price_TL,price_per_100g
-Fit Granola,FitLife,Cereals,420,18,12,12,9,129.90,25.98
-Protein Bar Chocolate,ProMax,Sweets,230,20,4,8,3,54.90,54.90
-Light Yogurt,FreshCo,Dairy,58,6,7,0,0,17.50,8.75
-High Protein Milk,StrongFit,Dairy,80,12,5,1,0,22.90,2.29
-Diet Tuna Can,BlueSea,Seafood,132,29,0,1,0,42.50,21.25
-Zero Sugar Cola,ColaZero,Beverages,1,0,0,0,0,18.00,1.80
-Oatmeal Organic,NatureFarm,Cereals,350,13,1,7,10,53.90,10.78
-Protein Chips BBQ,MuscleSnack,Snacks,150,10,2,4,2,39.90,26.60
-Light Cheese,Fresho,Dairy,50,8,1,2,0,34.90,17.45
-Healthy Peanut Butter,HealthNut,Spreads,580,25,6,46,8,89.90,44.95
-Fit Ice Cream,FitLife,Sweets,110,8,3,2,1,59.90,29.95
-High Protein Bread,ProteinWorld,Bakery,290,22,4,5,8,47.90,23.90
-Light Mayonnaise,FreshCo,Condiments,90,0,1,8,0,32.90,16.45
-Protein Cookie,MuscleSnack,Sweets,320,22,10,14,3,56.90,56.90
-Light Chocolate Milk,FreshCo,Beverages,80,5,8,2,0,19.90,1.99
-Protein Pudding,ProMax,Dessert,140,15,3,4,1,38.90,25.93
-Fit Granola Bar,FitLife,Cereals,180,12,6,5,3,29.90,29.90
-Diet Ice Tea,ColaZero,Beverages,5,0,0,0,0,12.90,1.29
-Protein Yogurt,StrongFit,Dairy,98,15,5,0,0,24.90,12.45
-Low Sugar Jam,NatureFarm,Spreads,40,0,3,0,1,31.50,15.75
-Healthy Almond Milk,NatureFarm,Beverages,27,1,0,2,1,27.90,2.79
-Light Breakfast Biscuit,Fresho,Bakery,210,5,10,7,2,44.90,22.45
-Protein Pizza,ProteinWorld,Snacks,450,30,6,15,5,94.90,47.45
-Diet Ketchup,FreshCo,Condiments,14,0,2,0,0,18.90,1.89
-High Protein Cereal,ProMax,Cereals,380,24,5,6,7,79.90,15.98
-Fit Smoothie Berry,HealthNut,Beverages,70,6,10,1,2,34.90,3.49
-Zero Sugar Energy Drink,ColaZero,Beverages,3,0,0,0,0,22.50,2.25
-Protein Wrap,StrongFit,Bakery,250,20,3,6,4,49.90,24.95
-Diet Chocolate Spread,HealthNut,Spreads,85,1,1,7,2,25.90,12.95
-Healthy Lentil Chips,NatureFarm,Snacks,130,9,1,3,5,28.90,19.27
+Sütaş Tam Yağlı Yoğurt 3kg,Sütaş,Dairy,62,3.5,4.7,3,0,119.9,23.98
+Sütaş Light Yoğurt 1kg,Sütaş,Dairy,45,4,4.5,1,0,39.9,7.98
+Sütaş Laktozsuz Süt 1L,Sütaş,Dairy,48,3.2,4.8,1.5,0,27.9,5.58
+İçim Protein Yoğurt 500g,İçim,Dairy,60,10,3.5,0.5,0,32.9,6.58
+İçim Light Yoğurt 1kg,İçim,Dairy,42,4,4.8,0.8,0,37.9,7.58
+İçim Süt Yarım Yağlı 1L,İçim,Dairy,47,3.2,4.7,1.2,0,24.9,4.98
+Pınar Süt Yağsız 1L,Pınar,Dairy,34,3.4,5,0.1,0,26.9,5.38
+Pınar Protein Süt Çikolatalı 500ml,Pınar,Dairy,55,10,4.8,0.8,0,29.9,5.98
+Danone Activia Probiyotik Yoğurt 4x100g,Activia,Dairy,80,4.3,11,2.4,0,36.9,7.38
+Danone Activia Light Yoğurt 4x100g,Activia,Dairy,55,4,6,1.5,0,36.9,7.38
+Yörsan Tam Yağlı Yoğurt 2kg,Yörsan,Dairy,61,3.4,4.6,3,0,89.9,17.98
+Yörsan Light Yoğurt 1kg,Yörsan,Dairy,45,4.1,4.8,1,0,35.9,7.18
+SEK Kefir Doğal 1L,SEK,Dairy,60,3.5,4.5,3,0,32.5,6.5
+SEK Light Kefir 1L,SEK,Dairy,45,3.5,3.5,1,0,34.9,6.98
+Torku Yoğurt Kaymaksız 1.5kg,Torku,Dairy,58,3.4,4.4,2.8,0,64.9,12.98
+Torku Protein Yoğurt 500g,Torku,Dairy,65,11,4,1,0,31.9,6.38
+Mis Yoğurt Light 1kg,Mis,Dairy,43,4,4.5,0.8,0,33.9,6.78
+Sütaş Kaymaksız Yoğurt 1.5kg,Sütaş,Dairy,60,3.5,4.6,3,0,69.9,13.98
+İçim Laktozsuz Light Süt 1L,İçim,Dairy,40,3.4,4.9,0.5,0,29.9,5.98
+Pınar Laktozsuz Light Süt 1L,Pınar,Dairy,39,3.4,4.9,0.5,0,29.5,5.9
+Nestlé Nesfit Tam Tahıllı Gevrek 300g,Nestlé,Cereals,370,11,18,3,6,49.9,9.98
+Nestlé Nesfit Ballı Bademli 300g,Nestlé,Cereals,380,9,20,4,5,52.9,10.58
+Eti Lifalif Yulaf Ezmesi 500g,Eti,Cereals,370,13,1,7,10,34.9,6.98
+Eti Lifalif Fit Yulaflı Karışım 350g,Eti,Cereals,380,14,8,8,9,42.9,8.58
+Kellogg's Special K 330g,Kellogg's,Cereals,375,15,17,1.5,7,69.9,13.98
+Kellogg's Special K Red Berries 300g,Kellogg's,Cereals,370,13,18,1.5,6,72.9,14.58
+Doğadan Granola Kakaolu 300g,Doğadan,Cereals,420,10,18,15,6,54.9,10.98
+Doğadan Granola Orman Meyveli 300g,Doğadan,Cereals,410,9,19,14,7,54.9,10.98
+Diyetform Kepekli Gevrek 250g,Diyetform,Cereals,360,11,8,2,12,39.9,7.98
+Nestlé Fitness Protein Gevrek 300g,Nestlé,Cereals,380,20,12,5,9,64.9,12.98
+Uno Tam Buğday Ekmeği 350g,Uno,Bakery,245,9,4,3,7,18.9,3.78
+Uno Fit Kepekli Ekmek 350g,Uno,Bakery,230,10,3,2.5,8,19.9,3.98
+Uno Protein Ekmeği 350g,Uno,Bakery,260,16,4,5,9,32.9,6.58
+Pakmaya Tam Buğday Ekmeği 400g,Pakmaya,Bakery,250,10,4,3,8,21.9,4.38
+Dr. Oetker Fit Pizza Tabanı 300g,Dr. Oetker,Bakery,260,12,4,6,6,39.9,7.98
+Sarelle Fındık Kreması Klasik 350g,Sarelle,Spreads,560,7,55,34,4,79.9,15.98
+Sarelle Fındık Kreması Şekersiz 350g,Sarelle,Spreads,520,8,7,41,8,92.9,18.58
+Balkovan Fıstık Ezmesi Klasik 320g,Balkovan,Spreads,590,25,9,49,7,69.9,13.98
+Balkovan Fıstık Ezmesi Şekersiz 320g,Balkovan,Spreads,585,26,4,50,8,74.9,14.98
+Torku Banada Kakaolu Fındık Kreması 400g,Torku,Spreads,550,5,56,33,3,64.9,12.98
+Torku Banada Şekersiz 350g,Torku,Spreads,520,6,6,40,7,72.9,14.58
+Peyman Bahçeden Kavrulmuş Badem 150g,Peyman,Snacks,610,21,4,53,10,79.9,15.98
+Peyman Bahçeden Karışık Kuruyemiş Light 150g,Peyman,Snacks,570,18,6,47,8,82.9,16.58
+Züber Fındıklı Protein Bar 40g,Züber,Snacks,380,25,7,14,8,19.9,3.98
+Züber Kakaolu Protein Bar 40g,Züber,Snacks,385,25,6,15,8,19.9,3.98
+Züber Hindistan Cevizli Bar 35g,Züber,Snacks,360,5,18,20,6,16.9,3.38
+Züber Şekersiz Fıstık Ezmeli Bar 40g,Züber,Snacks,390,24,5,18,7,21.9,4.38
+Ülker Metro Protein Bar 45g,Ülker,Snacks,410,20,25,16,3,16.9,3.38
+Eti Lifalif Protein Bar Çikolatalı 35g,Eti,Snacks,390,24,10,12,5,14.9,2.98
+Eti Form Kepekli Bisküvi 3'lü,Eti,Snacks,430,9,16,13,6,17.9,3.58
+Grenade Carb Killa Protein Bar 60g,Grenade,Snacks,360,30,2,13,6,49.9,9.98
+Quest Nutrition Protein Bar 60g,Quest,Snacks,350,21,1,12,14,52.9,10.58
+BigJoy BigBar Protein Bar 60g,BigJoy,Snacks,370,22,3,13,10,39.9,7.98
+Doritos Light Yoğurt & Mevsim Yeşillikleri 90g,Doritos,Snacks,470,7,4,21,4,19.9,3.98
+Ruffles Fırından Yoğurt & Mevsim Yeşillikleri 95g,Ruffles,Snacks,430,7,4,15,5,21.9,4.38
+Eti Form Kepekli Kraker 100g,Eti,Snacks,410,11,6,11,7,18.9,3.78
+Tadım Fırınlanmış Karışık Kuruyemiş 150g,Tadım,Snacks,560,19,6,47,9,84.9,16.98
+Tadım Fırınlanmış Leblebi 100g,Tadım,Snacks,370,23,3,5,15,32.9,6.58
+Coca-Cola Zero Sugar 330ml,Coca-Cola,Beverages,1,0,0,0,0,14.9,2.98
+Pepsi Max 330ml,Pepsi,Beverages,1,0,0,0,0,13.9,2.78
+Red Bull Sugarfree 250ml,Red Bull,Beverages,3,0,0,0,0,34.9,6.98
+Monster Ultra Zero 500ml,Monster,Beverages,4,0,0,0,0,39.9,7.98
+Fuse Tea Şekersiz Limon 1L,Fuse Tea,Beverages,1,0,0,0,0,19.9,3.98
+Lipton Ice Tea Şekersiz Şeftali 1L,Lipton,Beverages,1,0,0,0,0,19.9,3.98
+Activia Probiyotik İçecek 800g,Activia,Beverages,60,3.5,8,2,0,39.9,7.98
+Sütaş Ayran Light 1L,Sütaş,Beverages,26,2.5,3,0.5,0,21.9,4.38
+Pınar Ayran Light 1L,Pınar,Beverages,24,2.5,3,0.4,0,21.9,4.38
+İçim Kefir Light 1L,İçim,Beverages,45,3.5,3.5,1,0,34.9,6.98
+Algida Maraş Usulü Dondurma 500g,Algida,Dessert,230,4,24,12,0,79.9,15.98
+Algida Maraş Light Dondurma 500g,Algida,Dessert,160,5,14,6,0,84.9,16.98
+Carte d'Or Light Vanilya 500g,Carte d'Or,Dessert,150,4,20,5,0,89.9,17.98
+Pınar Protein Puding Çikolatalı 200g,Pınar,Dessert,90,10,3,2,0,23.9,4.78
+Ülker Smartform Light Puding 150g,Ülker,Dessert,80,5,8,1,0,14.9,2.98
+Dardanel Ton Balığı Light 2x80g,Dardanel,Seafood,132,29,0,1,0,54.9,10.98
+Dardanel Ton Balığı Zeytinyağlı 2x80g,Dardanel,Seafood,170,26,0,7,0,59.9,11.98
+SuperFresh Light Ispanaklı Börek 500g,SuperFresh,Frozen,210,7,3,11,3,69.9,13.98
+SuperFresh Fit Karışık Sebze 450g,SuperFresh,Frozen,55,3,4,0.5,3,39.9,7.98
+Knorr Çabuk Çorba Light Ezogelin,Knorr,Ready Food,45,2,6,0.7,1.5,9.9,1.98
+Knorr Çabuk Çorba Light Domates,Knorr,Ready Food,43,1.5,7,0.5,1.2,9.9,1.98
+Tat Light Ketçap 430g,Tat,Condiments,25,1,4,0.1,0.5,32.9,6.58
+Tat Şekersiz Ketçap 430g,Tat,Condiments,20,1,1,0.1,0.5,34.9,6.98
+Calvé Light Mayonez 410g,Calvé,Condiments,240,1,3,23,0,49.9,9.98
+Calvé Yoğurtlu Light Sos 250ml,Calvé,Condiments,120,2,4,7,0,39.9,7.98
+Sütaş Laktozsuz Yoğurt 750g,Sütaş,Dairy,55,4,5,1.5,0,36.9,7.38
+Pınar Light Yoğurt 1kg,Pınar,Dairy,44,4,4.8,0.8,0,38.9,7.78
+Activia Yoğurt Yulaflı 4x100g,Activia,Dairy,90,4.5,12,2.8,1.5,39.9,7.98
+Züber Protein Bar Fıstık & Kakao 40g,Züber,Snacks,395,26,6,16,8,21.9,4.38
+Eti Protein Bar Yer Fıstıklı 45g,Eti,Snacks,400,23,9,14,4,18.9,3.78
+Ülker Dido Fit Bar 35g,Ülker,Snacks,370,8,22,17,2,12.9,2.58
+Eti Lifalif Yulaf Ezmesi Glutensiz 300g,Eti,Cereals,360,12,1,6,9,32.9,6.58
+Nestlé Nesfit Glutensiz 300g,Nestlé,Cereals,365,10,15,3,6,57.9,11.58
+Eti Form Light Tuzsuz Kraker 100g,Eti,Snacks,400,10,2,9,7,18.9,3.78
+Tadım Fırınlanmış Badem 100g,Tadım,Snacks,610,21,4,53,10,59.9,11.98
+Coca-Cola Stevia 330ml,Coca-Cola,Beverages,18,0,4,0,0,15.9,3.18
+Fuse Tea Az Şekerli Şeftali 1L,Fuse Tea,Beverages,18,0,4,0,0,21.9,4.38
+Algida Maraş Usulü Light Kaymaklı 500g,Algida,Dessert,170,5,16,7,0,84.9,16.98
+Carte d'Or Light Çilekli 500g,Carte d'Or,Dessert,155,4,21,5,0,89.9,17.98
+Dardanel Ton Balığı Fit 2x80g,Dardanel,Seafood,125,29,0,0.5,0,56.9,11.38
+SuperFresh Izgara Karışık Sebze 450g,SuperFresh,Frozen,60,3,4,0.7,3,44.9,8.98
+Knorr Dört Tahıllı Light Çorba,Knorr,Ready Food,50,3,6,0.8,2,11.9,2.38
+
